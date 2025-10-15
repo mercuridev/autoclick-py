@@ -1,0 +1,645 @@
+{
+  "delay_seconds": 1.0,
+  "delay_variation_pct": 0.0,
+  "start_countdown": 0.0,
+  "mouse_button": "left",
+  "click_type": "single",
+  "use_fixed_position": false,
+  "fixed_x": null,
+  "fixed_y": null,
+  "run_mode": "until_stop",
+  "run_amount": 100,
+  "hotkey_toggle": "mouse.x2",
+  "hotkey_capture": "mouse.middle",
+  "hotkey_emergency": "mouse.x1",
+  "macro_use_recorded_delays": true,
+  "macro_forced_delay": 1.0,
+  "macro_mode": "until_stop",
+  "macro_loops": 5,
+  "macro_steps": [
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 7.4200358390808105
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 73,
+        "y": 1059
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 1.1281952857971191
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 868,
+        "y": 994
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 1.5626928806304932
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.8979611396789551
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "backspace"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.15147972106933594
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "backspace"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.3554048538208008
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.8183751106262207
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 1.5439560413360596
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 1.5173215866088867
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.7004189491271973
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.2146925926208496
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 1.3940222263336182
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.6427369117736816
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.26723814010620117
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.5902056694030762
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "shift"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.011301994323730469
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.8483316898345947
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.4547760486602783
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.9583728313446045
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "backspace"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.11884450912475586
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "backspace"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.731809139251709
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.1691122055053711
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 1.085336685180664
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "shift"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.8076705932617188
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.35411500930786133
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "~"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.2597217559814453
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.7549300193786621
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.15304183959960938
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.370419979095459
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.4649333953857422
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "backspace"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.6409132480621338
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 2.791001796722412
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "shift"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.49214816093444824
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.4409456253051758
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.19229364395141602
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.8079085350036621
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "space"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.7837231159210205
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "shift"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.05005598068237305
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "?"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.18927717208862305
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "enter"
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 10.028666019439697
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 432,
+        "y": 980
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 1.2884595394134521
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 193,
+        "y": 195
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.2616724967956543
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 194,
+        "y": 191
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.300152063369751
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 200,
+        "y": 186
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 5.77638578414917
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 666,
+        "y": 560
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 1.0812532901763916
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 1001,
+        "y": 606
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 20.662037134170532
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 1294,
+        "y": 504
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.7101454734802246
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 1294,
+        "y": 496
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 2.1609623432159424
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 175,
+        "y": 1064
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.6691155433654785
+      }
+    },
+    {
+      "kind": "click",
+      "value": {
+        "button": "left",
+        "x": 1121,
+        "y": 898
+      }
+    },
+    {
+      "kind": "delay",
+      "value": {
+        "seconds": 0.6457035541534424
+      }
+    },
+    {
+      "kind": "key",
+      "value": {
+        "token": "ctrl_l"
+      }
+    }
+  ]
+}
